@@ -37,7 +37,7 @@ This will generate files named `alveycore-lib.js` and `alveycore-lib.min.js`.
 ## Development & Tests
 
 ```sh
-git clone https://github.com/alveyproject/alveycore-lib
+git clone https://github.com/alveycoin/alveycore-lib
 cd alveycore-lib
 npm install
 ```
